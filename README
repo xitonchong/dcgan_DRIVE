@@ -5,5 +5,7 @@ objectives: demonstrate GANs ability on medical image dataset
 data source:
 https://drive.grand-challenge.org/DRIVE/
 
+Please use goto .ipython and run this in colab. 
+
 
 
