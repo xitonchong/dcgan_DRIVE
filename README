@@ -5,7 +5,10 @@ objectives: demonstrate GANs ability on medical image dataset
 data source:
 https://drive.grand-challenge.org/DRIVE/
 
-Please goto *.ipynb file to run in colab. 
-
+*** TO START ***
+1.  Please goto DRIVE_cisir2019.ipynb file to run in colab. 
+2.  By default, training stage is skipped by loading trained weights.
+3.  to run training from fresh, remove gan.h5 in present directory in DRIVE_cisir2019.ipynb
+    cmd:  rm gan.h5
 
 
