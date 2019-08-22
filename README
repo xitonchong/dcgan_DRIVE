@@ -11,4 +11,4 @@ https://drive.grand-challenge.org/DRIVE/
 3.  to run training from fresh, remove gan.h5 in present directory in DRIVE_cisir2019.ipynb
     cmd:  rm gan.h5
 
-[!training output per 100 epoch](DRIVE_dcgan.gif)
+![training output per 100 epoch](DRIVE_dcgan.gif)
