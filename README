@@ -11,4 +11,4 @@ https://drive.grand-challenge.org/DRIVE/
 3.  to run training from fresh, remove gan.h5 in present directory in DRIVE_cisir2019.ipynb
     cmd:  rm gan.h5
 
-![DRIVE_dcgan](https://user-images.githubusercontent.com/33032191/63483831-356ba700-c4d0-11e9-9446-4833f78705a4.gif)
+![](./DRIVE_dcgan.gif)
